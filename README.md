@@ -1,2 +1,2 @@
 # deliveryBoy
-Artificial intelligence course home work 1
+Artificial intelligence course homework 1
